@@ -7,7 +7,7 @@ Este repositório contém códigos Python para criar gráficos 3D de figuras geo
 ## **Demonstração**
 
 <p align="center">
-  <img src="Spin3D/pictures/foto do cubo.png" alt="Rotating 3D Shape" width="600">
+  <img src="spin3d/pictures/foto do cubo.png" alt="Rotating 3D Shape" width="600">
 </p>
 
 ---
