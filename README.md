@@ -111,7 +111,6 @@ Sinta-se à vontade para abrir issues ou envial pull requests com melhorias ou n
 
 Se você encontrar um bug ou tiver uma sugestão de melhoria, crie uma issue aqui no repositório.
 
----
 
 ### **Enviar um pull request:**
 
@@ -131,6 +130,8 @@ Este projeto está licenciado sob a Licença Pública Geral GNU (GNU General Pub
 ## **Contato**
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através das issues do repositório ou me envie um e-mail  diretamente.
+<br>
+email: roberto.leopessoa@gmail.com
 
 ---
 
