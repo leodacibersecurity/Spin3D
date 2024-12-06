@@ -67,14 +67,14 @@ pip install -r requirements.txt
 cd codígos
 ```
 
----
+--
 
 ### **2. Liste os scripts que estao na pasta**
 
 ```bash
 ls 
 ````
----
+--
 
 ### Saida esperada:
 
@@ -86,7 +86,7 @@ hexagono_3d
 
 ### **Execute um dos scripts**
 
----
+--
 
 ```bash
 python 3d_cube
